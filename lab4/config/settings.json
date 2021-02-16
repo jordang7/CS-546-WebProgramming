@@ -1,0 +1,6 @@
+{
+  "mongoConfig": {
+    "serverUrl": "mongodb://localhost:27017/",
+    "database": "Jordan_Greenberg_lab4_test"
+  }
+}

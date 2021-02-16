@@ -1,0 +1,77 @@
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+p {
+  color: navy;
+  text-transform: uppercase;
+}
+* {
+  box-sizing: border-box;
+}
+dl {
+  font: 1rem "Fira Sans", sans-serif;
+}
+
+dl > dt {
+  font-weight: normal;
+  font-style: oblique;
+}
+
+dd {
+  margin-bottom: 1rem;
+}
+html,
+body {
+  font-size: 14pt;
+}
+
+body {
+  background: #cad3c9;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+main {
+  max-width: 75%;
+  margin: auto;
+}
+
+header {
+  border-bottom: 1px solid #afafaf;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(37, 50, 167);
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+h6 {
+  font-size: 1.05rem;
+}

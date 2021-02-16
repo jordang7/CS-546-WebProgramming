@@ -1,0 +1,11 @@
+<main>
+    <h1>{{title}}</h1>
+    <p id="description">Please type the name of the show that you want to get more details from</p>
+    <form action="/search" method="POST">
+        <label for="pName">
+            Name: <br>
+            <input type="text" id="pName" name="searchTerm">
+        </label>
+        <input type="submit" value="Submit">
+    </form>
+</main>

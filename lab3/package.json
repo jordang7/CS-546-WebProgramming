@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "lab3 for cs546",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jordan Greenberg 10423185",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}

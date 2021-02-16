@@ -1,0 +1,19 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "really long lab6 lol",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "seed": "node /tasks/seed.js"
+  },
+  "author": "Jordan Greenberg 10423185",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "lab11",
+  "version": "1.0.0",
+  "description": "last lab!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jordan Greenberg 10423185",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "path": "^0.12.7"
+  }
+}
